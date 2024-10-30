@@ -1,0 +1,43 @@
+#status_div{
+	display:none;
+}
+.hidden{
+  display:none !important;
+}
+
+.clearfix{
+  clear:both;
+}
+.error_msg{
+	padding: 9px 6px 10px;
+background: coral;
+border: 1px dotted red;
+border-radius: 2px;
+-webkit-border-radius: 2px;
+-moz-border-radius: 2px;
+color:#fff;
+}
+.conf_msg{
+	padding: 9px 6px 10px;
+	background: #CF9;
+	border: 1px dotted #9C0;
+	border-radius: 2px;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	color:#fff;
+}
+#status_ajax{
+	display:none;
+}
+.button_block{
+	display:none;
+}
+.button_block{
+	text-align:center;
+}
+.copy_block{
+	font-size:8px;
+}
+.copy_block, .copy_block a, .copy_block a:visited{
+	color:#999999;
+}
